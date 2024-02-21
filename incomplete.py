@@ -1,5 +1,8 @@
 # incomplete code for students to complete
 def is_ipv4(input: str) -> bool:
+    """
+    Return True if the provided string is a valid IPv4 address, False otherwise.
+    """
     # your code here
     return False
 

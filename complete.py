@@ -1,13 +1,7 @@
 # complete solution
 def is_ipv4(input: str) -> bool:
     """
-    Check if the provided string is a valid IPv4 address.
-
-    Args:
-        input (str): The string to validate as an IPv4 address.
-
-    Returns:
-        bool: `True` if the string is a valid IPv4 address, `False` otherwise.
+    Return True if the provided string is a valid IPv4 address, False otherwise.
     """
     parts = input.split(".")
     if len(parts) != 4:
