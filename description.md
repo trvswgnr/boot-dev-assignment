@@ -1,3 +1,5 @@
+!["what is an ip address?" lesson banner](https://github.com/trvswgnr/boot-dev-assignment/assets/8974888/f0227761-f813-4972-a41f-bf7d6b6f9afd)
+
 # What is an IP Address?
 
 An IP address is a unique identifier for a device on a network. Imagine the internet as a massive, sprawling city. Each device connected to the internet is like a house in this city. Just like every house has a mailing address, every device has something known as an [**IP address**](https://developer.mozilla.org/en-US/docs/Glossary/IP_Address). We can use this address to send information from one device to another over the internet. It can also be used to determine the general location of a device, if you're into that sort of thing.
