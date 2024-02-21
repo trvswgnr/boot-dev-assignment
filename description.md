@@ -19,7 +19,8 @@ Here are the rules for a valid IPv4 address:
 2. Each number is between `0` and `255`.
 3. There are no leading zeros in any of the numbers.
 
-Example of valid IPv4 addresses: `192.168.1.1`, `255.255.255.255`
-Example of invalid IPv4 addresses: `lol.wut.no`, `192.168.1`, `192.168.01.1`
+Example of *valid* IPv4 addresses: `192.168.1.1`, `255.255.255.255`
 
-**Hint**: You might find the `split()` method and `isdigit()` function useful.
+Example of *invalid* IPv4 addresses: `lol.wut.no`, `192.168.1`, `192.168.01.1`
+
+**Hint**: You might find the `split()` and `isdigit()` string methods useful.
